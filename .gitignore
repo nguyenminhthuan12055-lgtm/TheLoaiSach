@@ -1,0 +1,13 @@
+# Thư viện cài bằng Composer
+/vendor
+
+# File sinh ra khi chạy
+/runtime/*
+!/runtime/.gitignore
+/web/assets/*
+!/web/assets/.gitignore
+
+# IDE
+.idea/
+.vscode/
+*.log
